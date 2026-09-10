@@ -1,0 +1,21 @@
+{
+  "username": "rosa-gus",
+  "from": "2026-06-13",
+  "to": "2026-09-10",
+  "days": [
+    { "date": "2026-06-15", "count": 3, "level": 1 },
+    { "date": "2026-06-28", "count": 5, "level": 2 },
+    { "date": "2026-08-17", "count": 3, "level": 1 },
+    { "date": "2026-08-19", "count": 2, "level": 1 },
+    { "date": "2026-08-20", "count": 4, "level": 2 },
+    { "date": "2026-08-22", "count": 1, "level": 1 },
+    { "date": "2026-08-27", "count": 1, "level": 1 },
+    { "date": "2026-08-28", "count": 1, "level": 1 },
+    { "date": "2026-08-29", "count": 1, "level": 1 },
+    { "date": "2026-08-31", "count": 1, "level": 1 },
+    { "date": "2026-09-05", "count": 11, "level": 4 },
+    { "date": "2026-09-08", "count": 2, "level": 1 },
+    { "date": "2026-09-09", "count": 11, "level": 4 },
+    { "date": "2026-09-10", "count": 5, "level": 2 }
+  ]
+}
