@@ -205,11 +205,11 @@ function renderSvg(activity, fontData, themeName) {
   const theme = THEMES[themeName];
   const { weeks, months } = buildCalendar(activity.days);
   const width = 860;
-  const height = 272;
+  const height = 220;
   const gridX = 116;
-  const gridY = 91;
+  const gridY = 77;
   const columnWidth = Math.min(48, Math.floor((width - gridX - 30) / weeks.length));
-  const rowHeight = 20;
+  const rowHeight = 15;
   const glyphs = [".", ":", "+", "#", "@"]; 
   const weekdays = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
   const total = activity.days.reduce((sum, day) => sum + day.count, 0);
@@ -220,7 +220,7 @@ function renderSvg(activity, fontData, themeName) {
   const monthLabels = months
     .map(
       ({ label, week }) =>
-        `<text class="meta" x="${gridX + week * columnWidth}" y="70">${label}</text>`,
+        `<text class="meta" x="${gridX + week * columnWidth}" y="61">${label}</text>`,
     )
     .join("\n    ");
 
@@ -260,27 +260,27 @@ function renderSvg(activity, fontData, themeName) {
     }
     .heading { fill: ${theme.foreground}; font-size: 13px; letter-spacing: 0.8px; }
     .meta { fill: ${theme.muted}; font-size: 11px; letter-spacing: 0.6px; }
-    .cell { font-size: 17px; text-anchor: middle; }
+    .cell { font-size: 14px; text-anchor: middle; }
     .level-0 { fill: ${theme.levels[0]}; }
     .level-1 { fill: ${theme.levels[1]}; }
     .level-2 { fill: ${theme.levels[2]}; }
     .level-3 { fill: ${theme.levels[3]}; }
     .level-4 { fill: ${theme.levels[4]}; }
-    .rule { stroke: ${theme.faint}; stroke-width: 1; shape-rendering: crispEdges; }
+    .separator { fill: ${theme.faint}; font-size: 10px; }
   </style>
-  <line class="rule" x1="0" y1="48" x2="860" y2="48" />
-  <line class="rule" x1="0" y1="226" x2="860" y2="226" />
-  <text class="heading" x="0" y="28">ENGINEERING ACTIVITY / LAST 90 DAYS</text>
-  <text class="meta" x="848" y="28" text-anchor="end">UPDATED ${updated} / UTC</text>
+  <text class="separator" x="0" y="42" textLength="860" lengthAdjust="spacingAndGlyphs">${"-".repeat(128)}</text>
+  <text class="separator" x="0" y="176" textLength="860" lengthAdjust="spacingAndGlyphs">${"-".repeat(128)}</text>
+  <text class="heading" x="0" y="25">ENGINEERING ACTIVITY / LAST 90 DAYS</text>
+  <text class="meta" x="848" y="25" text-anchor="end">UPDATED ${updated} / UTC</text>
   <g>
     ${monthLabels}
     ${weekdayLabels}
     ${cells}
   </g>
-  <text class="heading" x="0" y="257">CONTRIBUTIONS ${String(total).padStart(3, "0")}</text>
-  <text class="heading" x="284" y="257">ACTIVE DAYS ${String(activeDays).padStart(3, "0")}</text>
-  <text class="heading" x="534" y="257">LONGEST STREAK ${String(streak).padStart(3, "0")}</text>
-  <text class="meta" x="848" y="257" text-anchor="end">SIGNAL .:+#@</text>
+  <text class="heading" x="0" y="204">CONTRIBUTIONS ${String(total).padStart(3, "0")}</text>
+  <text class="heading" x="284" y="204">ACTIVE DAYS ${String(activeDays).padStart(3, "0")}</text>
+  <text class="heading" x="534" y="204">LONGEST STREAK ${String(streak).padStart(3, "0")}</text>
+  <text class="meta" x="848" y="204" text-anchor="end">SIGNAL .:+#@</text>
 </svg>
 `;
 }

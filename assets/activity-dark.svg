@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="272" viewBox="0 0 860 272" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="220" viewBox="0 0 860 220" role="img" aria-labelledby="title description">
   <title id="title">rosa-gus engineering activity</title>
   <desc id="description">52 public contributions across 14 active days from 2026-06-13 to 2026-09-10.</desc>
   <style>
@@ -15,123 +15,123 @@
     }
     .heading { fill: #f0f6fc; font-size: 13px; letter-spacing: 0.8px; }
     .meta { fill: #8b949e; font-size: 11px; letter-spacing: 0.6px; }
-    .cell { font-size: 17px; text-anchor: middle; }
+    .cell { font-size: 14px; text-anchor: middle; }
     .level-0 { fill: #30363d; }
     .level-1 { fill: #6e7681; }
     .level-2 { fill: #8b949e; }
     .level-3 { fill: #b1bac4; }
     .level-4 { fill: #f0f6fc; }
-    .rule { stroke: #30363d; stroke-width: 1; shape-rendering: crispEdges; }
+    .separator { fill: #30363d; font-size: 10px; }
   </style>
-  <line class="rule" x1="0" y1="48" x2="860" y2="48" />
-  <line class="rule" x1="0" y1="226" x2="860" y2="226" />
-  <text class="heading" x="0" y="28">ENGINEERING ACTIVITY / LAST 90 DAYS</text>
-  <text class="meta" x="848" y="28" text-anchor="end">UPDATED 2026-09-10 / UTC</text>
+  <text class="separator" x="0" y="42" textLength="860" lengthAdjust="spacingAndGlyphs">--------------------------------------------------------------------------------------------------------------------------------</text>
+  <text class="separator" x="0" y="176" textLength="860" lengthAdjust="spacingAndGlyphs">--------------------------------------------------------------------------------------------------------------------------------</text>
+  <text class="heading" x="0" y="25">ENGINEERING ACTIVITY / LAST 90 DAYS</text>
+  <text class="meta" x="848" y="25" text-anchor="end">UPDATED 2026-09-10 / UTC</text>
   <g>
-    <text class="meta" x="116" y="70">JUN</text>
-    <text class="meta" x="308" y="70">JUL</text>
-    <text class="meta" x="500" y="70">AUG</text>
-    <text class="meta" x="740" y="70">SEP</text>
-    <text class="meta" x="24" y="91">SUN</text>
-    <text class="meta" x="24" y="111">MON</text>
-    <text class="meta" x="24" y="131">TUE</text>
-    <text class="meta" x="24" y="151">WED</text>
-    <text class="meta" x="24" y="171">THU</text>
-    <text class="meta" x="24" y="191">FRI</text>
-    <text class="meta" x="24" y="211">SAT</text>
-    <text class="cell level-0" x="116" y="211"><title>2026-06-13: 0 contributions</title>.</text>
-    <text class="cell level-0" x="164" y="91"><title>2026-06-14: 0 contributions</title>.</text>
-    <text class="cell level-2" x="164" y="111"><title>2026-06-15: 3 contributions</title>+</text>
-    <text class="cell level-0" x="164" y="131"><title>2026-06-16: 0 contributions</title>.</text>
-    <text class="cell level-0" x="164" y="151"><title>2026-06-17: 0 contributions</title>.</text>
-    <text class="cell level-0" x="164" y="171"><title>2026-06-18: 0 contributions</title>.</text>
-    <text class="cell level-0" x="164" y="191"><title>2026-06-19: 0 contributions</title>.</text>
-    <text class="cell level-0" x="164" y="211"><title>2026-06-20: 0 contributions</title>.</text>
-    <text class="cell level-0" x="212" y="91"><title>2026-06-21: 0 contributions</title>.</text>
-    <text class="cell level-0" x="212" y="111"><title>2026-06-22: 0 contributions</title>.</text>
-    <text class="cell level-0" x="212" y="131"><title>2026-06-23: 0 contributions</title>.</text>
-    <text class="cell level-0" x="212" y="151"><title>2026-06-24: 0 contributions</title>.</text>
-    <text class="cell level-0" x="212" y="171"><title>2026-06-25: 0 contributions</title>.</text>
-    <text class="cell level-0" x="212" y="191"><title>2026-06-26: 0 contributions</title>.</text>
-    <text class="cell level-0" x="212" y="211"><title>2026-06-27: 0 contributions</title>.</text>
-    <text class="cell level-4" x="260" y="91"><title>2026-06-28: 5 contributions</title>@</text>
-    <text class="cell level-0" x="260" y="111"><title>2026-06-29: 0 contributions</title>.</text>
-    <text class="cell level-0" x="260" y="131"><title>2026-06-30: 0 contributions</title>.</text>
-    <text class="cell level-0" x="260" y="151"><title>2026-07-01: 0 contributions</title>.</text>
-    <text class="cell level-0" x="260" y="171"><title>2026-07-02: 0 contributions</title>.</text>
-    <text class="cell level-0" x="260" y="191"><title>2026-07-03: 0 contributions</title>.</text>
-    <text class="cell level-0" x="260" y="211"><title>2026-07-04: 0 contributions</title>.</text>
-    <text class="cell level-0" x="308" y="91"><title>2026-07-05: 0 contributions</title>.</text>
-    <text class="cell level-0" x="308" y="111"><title>2026-07-06: 0 contributions</title>.</text>
-    <text class="cell level-0" x="308" y="131"><title>2026-07-07: 0 contributions</title>.</text>
-    <text class="cell level-0" x="308" y="151"><title>2026-07-08: 0 contributions</title>.</text>
-    <text class="cell level-0" x="308" y="171"><title>2026-07-09: 0 contributions</title>.</text>
-    <text class="cell level-0" x="308" y="191"><title>2026-07-10: 0 contributions</title>.</text>
-    <text class="cell level-0" x="308" y="211"><title>2026-07-11: 0 contributions</title>.</text>
-    <text class="cell level-0" x="356" y="91"><title>2026-07-12: 0 contributions</title>.</text>
-    <text class="cell level-0" x="356" y="111"><title>2026-07-13: 0 contributions</title>.</text>
-    <text class="cell level-0" x="356" y="131"><title>2026-07-14: 0 contributions</title>.</text>
-    <text class="cell level-0" x="356" y="151"><title>2026-07-15: 0 contributions</title>.</text>
-    <text class="cell level-0" x="356" y="171"><title>2026-07-16: 0 contributions</title>.</text>
-    <text class="cell level-0" x="356" y="191"><title>2026-07-17: 0 contributions</title>.</text>
-    <text class="cell level-0" x="356" y="211"><title>2026-07-18: 0 contributions</title>.</text>
-    <text class="cell level-0" x="404" y="91"><title>2026-07-19: 0 contributions</title>.</text>
-    <text class="cell level-0" x="404" y="111"><title>2026-07-20: 0 contributions</title>.</text>
-    <text class="cell level-0" x="404" y="131"><title>2026-07-21: 0 contributions</title>.</text>
-    <text class="cell level-0" x="404" y="151"><title>2026-07-22: 0 contributions</title>.</text>
-    <text class="cell level-0" x="404" y="171"><title>2026-07-23: 0 contributions</title>.</text>
-    <text class="cell level-0" x="404" y="191"><title>2026-07-24: 0 contributions</title>.</text>
-    <text class="cell level-0" x="404" y="211"><title>2026-07-25: 0 contributions</title>.</text>
-    <text class="cell level-0" x="452" y="91"><title>2026-07-26: 0 contributions</title>.</text>
-    <text class="cell level-0" x="452" y="111"><title>2026-07-27: 0 contributions</title>.</text>
-    <text class="cell level-0" x="452" y="131"><title>2026-07-28: 0 contributions</title>.</text>
-    <text class="cell level-0" x="452" y="151"><title>2026-07-29: 0 contributions</title>.</text>
-    <text class="cell level-0" x="452" y="171"><title>2026-07-30: 0 contributions</title>.</text>
-    <text class="cell level-0" x="452" y="191"><title>2026-07-31: 0 contributions</title>.</text>
-    <text class="cell level-0" x="452" y="211"><title>2026-08-01: 0 contributions</title>.</text>
-    <text class="cell level-0" x="500" y="91"><title>2026-08-02: 0 contributions</title>.</text>
-    <text class="cell level-0" x="500" y="111"><title>2026-08-03: 0 contributions</title>.</text>
-    <text class="cell level-0" x="500" y="131"><title>2026-08-04: 0 contributions</title>.</text>
-    <text class="cell level-0" x="500" y="151"><title>2026-08-05: 0 contributions</title>.</text>
-    <text class="cell level-0" x="500" y="171"><title>2026-08-06: 0 contributions</title>.</text>
-    <text class="cell level-0" x="500" y="191"><title>2026-08-07: 0 contributions</title>.</text>
-    <text class="cell level-0" x="500" y="211"><title>2026-08-08: 0 contributions</title>.</text>
-    <text class="cell level-0" x="548" y="91"><title>2026-08-09: 0 contributions</title>.</text>
-    <text class="cell level-0" x="548" y="111"><title>2026-08-10: 0 contributions</title>.</text>
-    <text class="cell level-0" x="548" y="131"><title>2026-08-11: 0 contributions</title>.</text>
-    <text class="cell level-0" x="548" y="151"><title>2026-08-12: 0 contributions</title>.</text>
-    <text class="cell level-0" x="548" y="171"><title>2026-08-13: 0 contributions</title>.</text>
-    <text class="cell level-0" x="548" y="191"><title>2026-08-14: 0 contributions</title>.</text>
-    <text class="cell level-0" x="548" y="211"><title>2026-08-15: 0 contributions</title>.</text>
-    <text class="cell level-0" x="596" y="91"><title>2026-08-16: 0 contributions</title>.</text>
-    <text class="cell level-2" x="596" y="111"><title>2026-08-17: 3 contributions</title>+</text>
-    <text class="cell level-0" x="596" y="131"><title>2026-08-18: 0 contributions</title>.</text>
-    <text class="cell level-2" x="596" y="151"><title>2026-08-19: 2 contributions</title>+</text>
-    <text class="cell level-3" x="596" y="171"><title>2026-08-20: 4 contributions</title>#</text>
-    <text class="cell level-0" x="596" y="191"><title>2026-08-21: 0 contributions</title>.</text>
-    <text class="cell level-1" x="596" y="211"><title>2026-08-22: 1 contribution</title>:</text>
-    <text class="cell level-0" x="644" y="91"><title>2026-08-23: 0 contributions</title>.</text>
-    <text class="cell level-0" x="644" y="111"><title>2026-08-24: 0 contributions</title>.</text>
-    <text class="cell level-0" x="644" y="131"><title>2026-08-25: 0 contributions</title>.</text>
-    <text class="cell level-0" x="644" y="151"><title>2026-08-26: 0 contributions</title>.</text>
-    <text class="cell level-1" x="644" y="171"><title>2026-08-27: 1 contribution</title>:</text>
-    <text class="cell level-1" x="644" y="191"><title>2026-08-28: 1 contribution</title>:</text>
-    <text class="cell level-1" x="644" y="211"><title>2026-08-29: 1 contribution</title>:</text>
-    <text class="cell level-0" x="692" y="91"><title>2026-08-30: 0 contributions</title>.</text>
-    <text class="cell level-1" x="692" y="111"><title>2026-08-31: 1 contribution</title>:</text>
-    <text class="cell level-0" x="692" y="131"><title>2026-09-01: 0 contributions</title>.</text>
-    <text class="cell level-0" x="692" y="151"><title>2026-09-02: 0 contributions</title>.</text>
-    <text class="cell level-0" x="692" y="171"><title>2026-09-03: 0 contributions</title>.</text>
-    <text class="cell level-0" x="692" y="191"><title>2026-09-04: 0 contributions</title>.</text>
-    <text class="cell level-4" x="692" y="211"><title>2026-09-05: 11 contributions</title>@</text>
-    <text class="cell level-0" x="740" y="91"><title>2026-09-06: 0 contributions</title>.</text>
-    <text class="cell level-0" x="740" y="111"><title>2026-09-07: 0 contributions</title>.</text>
-    <text class="cell level-2" x="740" y="131"><title>2026-09-08: 2 contributions</title>+</text>
-    <text class="cell level-4" x="740" y="151"><title>2026-09-09: 11 contributions</title>@</text>
-    <text class="cell level-4" x="740" y="171"><title>2026-09-10: 6 contributions</title>@</text>
+    <text class="meta" x="116" y="61">JUN</text>
+    <text class="meta" x="308" y="61">JUL</text>
+    <text class="meta" x="500" y="61">AUG</text>
+    <text class="meta" x="740" y="61">SEP</text>
+    <text class="meta" x="24" y="77">SUN</text>
+    <text class="meta" x="24" y="92">MON</text>
+    <text class="meta" x="24" y="107">TUE</text>
+    <text class="meta" x="24" y="122">WED</text>
+    <text class="meta" x="24" y="137">THU</text>
+    <text class="meta" x="24" y="152">FRI</text>
+    <text class="meta" x="24" y="167">SAT</text>
+    <text class="cell level-0" x="116" y="167"><title>2026-06-13: 0 contributions</title>.</text>
+    <text class="cell level-0" x="164" y="77"><title>2026-06-14: 0 contributions</title>.</text>
+    <text class="cell level-1" x="164" y="92"><title>2026-06-15: 3 contributions</title>:</text>
+    <text class="cell level-0" x="164" y="107"><title>2026-06-16: 0 contributions</title>.</text>
+    <text class="cell level-0" x="164" y="122"><title>2026-06-17: 0 contributions</title>.</text>
+    <text class="cell level-0" x="164" y="137"><title>2026-06-18: 0 contributions</title>.</text>
+    <text class="cell level-0" x="164" y="152"><title>2026-06-19: 0 contributions</title>.</text>
+    <text class="cell level-0" x="164" y="167"><title>2026-06-20: 0 contributions</title>.</text>
+    <text class="cell level-0" x="212" y="77"><title>2026-06-21: 0 contributions</title>.</text>
+    <text class="cell level-0" x="212" y="92"><title>2026-06-22: 0 contributions</title>.</text>
+    <text class="cell level-0" x="212" y="107"><title>2026-06-23: 0 contributions</title>.</text>
+    <text class="cell level-0" x="212" y="122"><title>2026-06-24: 0 contributions</title>.</text>
+    <text class="cell level-0" x="212" y="137"><title>2026-06-25: 0 contributions</title>.</text>
+    <text class="cell level-0" x="212" y="152"><title>2026-06-26: 0 contributions</title>.</text>
+    <text class="cell level-0" x="212" y="167"><title>2026-06-27: 0 contributions</title>.</text>
+    <text class="cell level-2" x="260" y="77"><title>2026-06-28: 5 contributions</title>+</text>
+    <text class="cell level-0" x="260" y="92"><title>2026-06-29: 0 contributions</title>.</text>
+    <text class="cell level-0" x="260" y="107"><title>2026-06-30: 0 contributions</title>.</text>
+    <text class="cell level-0" x="260" y="122"><title>2026-07-01: 0 contributions</title>.</text>
+    <text class="cell level-0" x="260" y="137"><title>2026-07-02: 0 contributions</title>.</text>
+    <text class="cell level-0" x="260" y="152"><title>2026-07-03: 0 contributions</title>.</text>
+    <text class="cell level-0" x="260" y="167"><title>2026-07-04: 0 contributions</title>.</text>
+    <text class="cell level-0" x="308" y="77"><title>2026-07-05: 0 contributions</title>.</text>
+    <text class="cell level-0" x="308" y="92"><title>2026-07-06: 0 contributions</title>.</text>
+    <text class="cell level-0" x="308" y="107"><title>2026-07-07: 0 contributions</title>.</text>
+    <text class="cell level-0" x="308" y="122"><title>2026-07-08: 0 contributions</title>.</text>
+    <text class="cell level-0" x="308" y="137"><title>2026-07-09: 0 contributions</title>.</text>
+    <text class="cell level-0" x="308" y="152"><title>2026-07-10: 0 contributions</title>.</text>
+    <text class="cell level-0" x="308" y="167"><title>2026-07-11: 0 contributions</title>.</text>
+    <text class="cell level-0" x="356" y="77"><title>2026-07-12: 0 contributions</title>.</text>
+    <text class="cell level-0" x="356" y="92"><title>2026-07-13: 0 contributions</title>.</text>
+    <text class="cell level-0" x="356" y="107"><title>2026-07-14: 0 contributions</title>.</text>
+    <text class="cell level-0" x="356" y="122"><title>2026-07-15: 0 contributions</title>.</text>
+    <text class="cell level-0" x="356" y="137"><title>2026-07-16: 0 contributions</title>.</text>
+    <text class="cell level-0" x="356" y="152"><title>2026-07-17: 0 contributions</title>.</text>
+    <text class="cell level-0" x="356" y="167"><title>2026-07-18: 0 contributions</title>.</text>
+    <text class="cell level-0" x="404" y="77"><title>2026-07-19: 0 contributions</title>.</text>
+    <text class="cell level-0" x="404" y="92"><title>2026-07-20: 0 contributions</title>.</text>
+    <text class="cell level-0" x="404" y="107"><title>2026-07-21: 0 contributions</title>.</text>
+    <text class="cell level-0" x="404" y="122"><title>2026-07-22: 0 contributions</title>.</text>
+    <text class="cell level-0" x="404" y="137"><title>2026-07-23: 0 contributions</title>.</text>
+    <text class="cell level-0" x="404" y="152"><title>2026-07-24: 0 contributions</title>.</text>
+    <text class="cell level-0" x="404" y="167"><title>2026-07-25: 0 contributions</title>.</text>
+    <text class="cell level-0" x="452" y="77"><title>2026-07-26: 0 contributions</title>.</text>
+    <text class="cell level-0" x="452" y="92"><title>2026-07-27: 0 contributions</title>.</text>
+    <text class="cell level-0" x="452" y="107"><title>2026-07-28: 0 contributions</title>.</text>
+    <text class="cell level-0" x="452" y="122"><title>2026-07-29: 0 contributions</title>.</text>
+    <text class="cell level-0" x="452" y="137"><title>2026-07-30: 0 contributions</title>.</text>
+    <text class="cell level-0" x="452" y="152"><title>2026-07-31: 0 contributions</title>.</text>
+    <text class="cell level-0" x="452" y="167"><title>2026-08-01: 0 contributions</title>.</text>
+    <text class="cell level-0" x="500" y="77"><title>2026-08-02: 0 contributions</title>.</text>
+    <text class="cell level-0" x="500" y="92"><title>2026-08-03: 0 contributions</title>.</text>
+    <text class="cell level-0" x="500" y="107"><title>2026-08-04: 0 contributions</title>.</text>
+    <text class="cell level-0" x="500" y="122"><title>2026-08-05: 0 contributions</title>.</text>
+    <text class="cell level-0" x="500" y="137"><title>2026-08-06: 0 contributions</title>.</text>
+    <text class="cell level-0" x="500" y="152"><title>2026-08-07: 0 contributions</title>.</text>
+    <text class="cell level-0" x="500" y="167"><title>2026-08-08: 0 contributions</title>.</text>
+    <text class="cell level-0" x="548" y="77"><title>2026-08-09: 0 contributions</title>.</text>
+    <text class="cell level-0" x="548" y="92"><title>2026-08-10: 0 contributions</title>.</text>
+    <text class="cell level-0" x="548" y="107"><title>2026-08-11: 0 contributions</title>.</text>
+    <text class="cell level-0" x="548" y="122"><title>2026-08-12: 0 contributions</title>.</text>
+    <text class="cell level-0" x="548" y="137"><title>2026-08-13: 0 contributions</title>.</text>
+    <text class="cell level-0" x="548" y="152"><title>2026-08-14: 0 contributions</title>.</text>
+    <text class="cell level-0" x="548" y="167"><title>2026-08-15: 0 contributions</title>.</text>
+    <text class="cell level-0" x="596" y="77"><title>2026-08-16: 0 contributions</title>.</text>
+    <text class="cell level-1" x="596" y="92"><title>2026-08-17: 3 contributions</title>:</text>
+    <text class="cell level-0" x="596" y="107"><title>2026-08-18: 0 contributions</title>.</text>
+    <text class="cell level-1" x="596" y="122"><title>2026-08-19: 2 contributions</title>:</text>
+    <text class="cell level-2" x="596" y="137"><title>2026-08-20: 4 contributions</title>+</text>
+    <text class="cell level-0" x="596" y="152"><title>2026-08-21: 0 contributions</title>.</text>
+    <text class="cell level-1" x="596" y="167"><title>2026-08-22: 1 contribution</title>:</text>
+    <text class="cell level-0" x="644" y="77"><title>2026-08-23: 0 contributions</title>.</text>
+    <text class="cell level-0" x="644" y="92"><title>2026-08-24: 0 contributions</title>.</text>
+    <text class="cell level-0" x="644" y="107"><title>2026-08-25: 0 contributions</title>.</text>
+    <text class="cell level-0" x="644" y="122"><title>2026-08-26: 0 contributions</title>.</text>
+    <text class="cell level-1" x="644" y="137"><title>2026-08-27: 1 contribution</title>:</text>
+    <text class="cell level-1" x="644" y="152"><title>2026-08-28: 1 contribution</title>:</text>
+    <text class="cell level-1" x="644" y="167"><title>2026-08-29: 1 contribution</title>:</text>
+    <text class="cell level-0" x="692" y="77"><title>2026-08-30: 0 contributions</title>.</text>
+    <text class="cell level-1" x="692" y="92"><title>2026-08-31: 1 contribution</title>:</text>
+    <text class="cell level-0" x="692" y="107"><title>2026-09-01: 0 contributions</title>.</text>
+    <text class="cell level-0" x="692" y="122"><title>2026-09-02: 0 contributions</title>.</text>
+    <text class="cell level-0" x="692" y="137"><title>2026-09-03: 0 contributions</title>.</text>
+    <text class="cell level-0" x="692" y="152"><title>2026-09-04: 0 contributions</title>.</text>
+    <text class="cell level-4" x="692" y="167"><title>2026-09-05: 11 contributions</title>@</text>
+    <text class="cell level-0" x="740" y="77"><title>2026-09-06: 0 contributions</title>.</text>
+    <text class="cell level-0" x="740" y="92"><title>2026-09-07: 0 contributions</title>.</text>
+    <text class="cell level-1" x="740" y="107"><title>2026-09-08: 2 contributions</title>:</text>
+    <text class="cell level-4" x="740" y="122"><title>2026-09-09: 11 contributions</title>@</text>
+    <text class="cell level-4" x="740" y="137"><title>2026-09-10: 6 contributions</title>@</text>
   </g>
-  <text class="heading" x="0" y="257">CONTRIBUTIONS 052</text>
-  <text class="heading" x="284" y="257">ACTIVE DAYS 014</text>
-  <text class="heading" x="534" y="257">LONGEST STREAK 003</text>
-  <text class="meta" x="848" y="257" text-anchor="end">SIGNAL .:+#@</text>
+  <text class="heading" x="0" y="204">CONTRIBUTIONS 052</text>
+  <text class="heading" x="284" y="204">ACTIVE DAYS 014</text>
+  <text class="heading" x="534" y="204">LONGEST STREAK 003</text>
+  <text class="meta" x="848" y="204" text-anchor="end">SIGNAL .:+#@</text>
 </svg>

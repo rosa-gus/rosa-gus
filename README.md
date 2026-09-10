@@ -1,53 +1,30 @@
 <samp>
 
-LUIS GUSTAVO / FULL-STACK DEVELOPER<br>
-SOFTWARE ENGINEERING STUDENT / BRAZIL<br>
-SOFTWARE ACROSS INTERFACE, SYSTEMS AND INFRASTRUCTURE.<br>
+LUIS GUSTAVO<br>
+FULL-STACK DEVELOPER / SOFTWARE ENGINEERING STUDENT<br>
+BRAZIL / AVAILABLE FOR NEW PROJECTS<br>
 <br>
-TypeScript / Go / Python<br>
-Web systems / APIs / automation / applied machine learning<br>
+SOFTWARE ACROSS INTERFACES, SYSTEMS AND INFRASTRUCTURE.<br>
 <br>
-[AVAILABLE FOR NEW PROJECTS]
+----------------------------------------------------------------<br>
+TECHNICAL FIELD / 01--02<br>
+----------------------------------------------------------------<br>
+<br>
+I build production web platforms, APIs, computer-vision<br>
+pipelines and native Linux tools.<br>
+<br>
+LANGUAGES&nbsp;&nbsp;&nbsp; TypeScript / Go / Python<br>
+WEB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React / Vite / Cloudflare Workers / FastAPI<br>
+SYSTEMS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; APIs / data / auth / automation / serverless<br>
+ML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyTorch / BioCLIP / computer vision<br>
+NATIVE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GTK 4 / Linux / CLI / TUI<br>
+QUALITY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vitest / Playwright / pytest / Ruff / ESLint<br>
+<br>
+----------------------------------------------------------------<br>
+ACTIVITY SIGNAL / 02--02<br>
+----------------------------------------------------------------
 
 </samp>
-
----
-
-### <samp>01 / TECHNICAL PROFILE</samp>
-
-I build software across browser, serverless and native runtimes. My recent work spans production web platforms, REST APIs, infrastructure at the edge, computer-vision pipelines and Linux desktop tools.
-
-I care about explicit technical decisions, maintainable boundaries and software that can evolve without losing clarity.
-
----
-
-### <samp>02 / CAPABILITY MAP</samp>
-
-| Area | Working set |
-| :--- | :--- |
-| <samp>LANGUAGES</samp> | TypeScript / Go / Python |
-| <samp>FRONTEND</samp> | React / Vite / accessible interfaces / design systems |
-| <samp>BACKEND</samp> | Cloudflare Workers / FastAPI / REST APIs |
-| <samp>DATA</samp> | KV / Firestore / validation pipelines |
-| <samp>APPLIED ML</samp> | PyTorch / BioCLIP / computer vision |
-| <samp>DESKTOP</samp> | GTK 4 / Linux integrations / CLI and TUI tooling |
-| <samp>QUALITY</samp> | Vitest / Playwright / pytest / Ruff / ESLint |
-
----
-
-### <samp>03 / ENGINEERING</samp>
-
-```text
-SYSTEM DESIGN   modular boundaries / typed contracts / failure modes
-API DESIGN      validation / authentication / predictable errors
-QUALITY         type safety / unit / integration / end-to-end tests
-DELIVERY        reproducible builds / CI / deployment automation
-INTERFACE       accessibility / responsive behavior / consistency
-```
-
----
-
-### <samp>04 / ACTIVITY SIGNAL</samp>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg">
@@ -55,14 +32,11 @@ INTERFACE       accessibility / responsive behavior / consistency
   <img src="./assets/activity-light.svg" width="100%" alt="ASCII calendar of Luis Gustavo's public GitHub contributions over the last 90 days">
 </picture>
 
----
+<samp>
 
-### <samp>WORK</samp>
+----------------------------------------------------------------<br>
+<a href="https://rosa-gus.github.io/portfolio/">[PORTFOLIO ->]</a>&nbsp;&nbsp;
+<a href="https://github.com/rosa-gus?tab=repositories">[REPOSITORIES ->]</a>&nbsp;&nbsp;
+<a href="mailto:rosagus.contato@protonmail.com">[EMAIL ->]</a>
 
-Implementation details and source code are available in the pinned repositories below. Architecture, product context and selected case studies live in the [portfolio](https://rosa-gus.github.io/portfolio/).
-
-### <samp>CONTACT</samp>
-
-[[PORTFOLIO ->]](https://rosa-gus.github.io/portfolio/) &nbsp;&nbsp; [[EMAIL ->]](mailto:rosagus.contato@protonmail.com) &nbsp;&nbsp; [[GITHUB ->]](https://github.com/rosa-gus)
-
-<samp>LET'S BUILD SOMETHING.</samp>
+</samp>
