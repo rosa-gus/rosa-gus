@@ -17,7 +17,7 @@ LANGUAGES&nbsp;&nbsp;&nbsp; TypeScript / Go / Python<br>
 WEB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React / Vite / Cloudflare Workers / FastAPI<br>
 SYSTEMS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; APIs / data / auth / automation / serverless<br>
 ML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyTorch / BioCLIP / computer vision<br>
-NATIVE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GTK 4 / Linux / CLI / TUI<br>
+NATIVE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Electron / GTK 4 / Linux / CLI / TUI<br>
 QUALITY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vitest / Playwright / pytest / Ruff / ESLint<br>
 <br>
 &#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;&#45;<br>
