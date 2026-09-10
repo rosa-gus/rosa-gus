@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="272" viewBox="0 0 860 272" role="img" aria-labelledby="title description">
   <title id="title">rosa-gus engineering activity</title>
-  <desc id="description">51 public contributions across 14 active days from 2026-06-13 to 2026-09-10.</desc>
+  <desc id="description">52 public contributions across 14 active days from 2026-06-13 to 2026-09-10.</desc>
   <style>
     @font-face {
       font-family: "IBM Plex Mono Embedded";
@@ -41,7 +41,7 @@
     <text class="meta" x="24" y="211">SAT</text>
     <text class="cell level-0" x="116" y="211"><title>2026-06-13: 0 contributions</title>.</text>
     <text class="cell level-0" x="164" y="91"><title>2026-06-14: 0 contributions</title>.</text>
-    <text class="cell level-1" x="164" y="111"><title>2026-06-15: 3 contributions</title>:</text>
+    <text class="cell level-2" x="164" y="111"><title>2026-06-15: 3 contributions</title>+</text>
     <text class="cell level-0" x="164" y="131"><title>2026-06-16: 0 contributions</title>.</text>
     <text class="cell level-0" x="164" y="151"><title>2026-06-17: 0 contributions</title>.</text>
     <text class="cell level-0" x="164" y="171"><title>2026-06-18: 0 contributions</title>.</text>
@@ -54,7 +54,7 @@
     <text class="cell level-0" x="212" y="171"><title>2026-06-25: 0 contributions</title>.</text>
     <text class="cell level-0" x="212" y="191"><title>2026-06-26: 0 contributions</title>.</text>
     <text class="cell level-0" x="212" y="211"><title>2026-06-27: 0 contributions</title>.</text>
-    <text class="cell level-2" x="260" y="91"><title>2026-06-28: 5 contributions</title>+</text>
+    <text class="cell level-4" x="260" y="91"><title>2026-06-28: 5 contributions</title>@</text>
     <text class="cell level-0" x="260" y="111"><title>2026-06-29: 0 contributions</title>.</text>
     <text class="cell level-0" x="260" y="131"><title>2026-06-30: 0 contributions</title>.</text>
     <text class="cell level-0" x="260" y="151"><title>2026-07-01: 0 contributions</title>.</text>
@@ -104,10 +104,10 @@
     <text class="cell level-0" x="548" y="191"><title>2026-08-14: 0 contributions</title>.</text>
     <text class="cell level-0" x="548" y="211"><title>2026-08-15: 0 contributions</title>.</text>
     <text class="cell level-0" x="596" y="91"><title>2026-08-16: 0 contributions</title>.</text>
-    <text class="cell level-1" x="596" y="111"><title>2026-08-17: 3 contributions</title>:</text>
+    <text class="cell level-2" x="596" y="111"><title>2026-08-17: 3 contributions</title>+</text>
     <text class="cell level-0" x="596" y="131"><title>2026-08-18: 0 contributions</title>.</text>
-    <text class="cell level-1" x="596" y="151"><title>2026-08-19: 2 contributions</title>:</text>
-    <text class="cell level-2" x="596" y="171"><title>2026-08-20: 4 contributions</title>+</text>
+    <text class="cell level-2" x="596" y="151"><title>2026-08-19: 2 contributions</title>+</text>
+    <text class="cell level-3" x="596" y="171"><title>2026-08-20: 4 contributions</title>#</text>
     <text class="cell level-0" x="596" y="191"><title>2026-08-21: 0 contributions</title>.</text>
     <text class="cell level-1" x="596" y="211"><title>2026-08-22: 1 contribution</title>:</text>
     <text class="cell level-0" x="644" y="91"><title>2026-08-23: 0 contributions</title>.</text>
@@ -126,11 +126,11 @@
     <text class="cell level-4" x="692" y="211"><title>2026-09-05: 11 contributions</title>@</text>
     <text class="cell level-0" x="740" y="91"><title>2026-09-06: 0 contributions</title>.</text>
     <text class="cell level-0" x="740" y="111"><title>2026-09-07: 0 contributions</title>.</text>
-    <text class="cell level-1" x="740" y="131"><title>2026-09-08: 2 contributions</title>:</text>
+    <text class="cell level-2" x="740" y="131"><title>2026-09-08: 2 contributions</title>+</text>
     <text class="cell level-4" x="740" y="151"><title>2026-09-09: 11 contributions</title>@</text>
-    <text class="cell level-2" x="740" y="171"><title>2026-09-10: 5 contributions</title>+</text>
+    <text class="cell level-4" x="740" y="171"><title>2026-09-10: 6 contributions</title>@</text>
   </g>
-  <text class="heading" x="0" y="257">CONTRIBUTIONS 051</text>
+  <text class="heading" x="0" y="257">CONTRIBUTIONS 052</text>
   <text class="heading" x="284" y="257">ACTIVE DAYS 014</text>
   <text class="heading" x="534" y="257">LONGEST STREAK 003</text>
   <text class="meta" x="848" y="257" text-anchor="end">SIGNAL .:+#@</text>
