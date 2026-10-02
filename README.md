@@ -14,8 +14,8 @@ I build production web platforms, APIs, computer-vision<br>
 pipelines and native Linux tools.<br>
 <br>
 LANGUAGES&nbsp;&nbsp;&nbsp; TypeScript / Go / Python<br>
-WEB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React / Vite / Cloudflare Workers / FastAPI<br>
-SYSTEMS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; APIs / data / auth / automation / serverless<br>
+WEB&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React / Vite / Serverless Functions / FastAPI<br>
+SYSTEMS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; APIs / data / auth / automation<br>
 ML&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; PyTorch / BioCLIP / computer vision<br>
 NATIVE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GTK 4 / Linux / CLI / TUI<br>
 QUALITY&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vitest / Playwright / pytest / Ruff / ESLint<br>
